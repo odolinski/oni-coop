@@ -127,3 +127,8 @@ The scripts and the mod's logs speak French. The messages below are shown as the
 
 Still stuck? The file `onimp_host.log` or `onimp_client.log`, in the `AE` folder, says what
 happened. Attach it when you report a problem.
+
+## Support the mod
+
+OniMP is free. If you enjoy it, you can make a donation:
+[paypal.me/odolinski](https://paypal.me/odolinski). Thank you!

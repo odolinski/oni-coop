@@ -9,6 +9,8 @@ nothing on disk in `Oni.exe`: every patch is applied in memory when the game sta
 **Just want to play? Follow [INSTALL.md](INSTALL.md).** No compiler needed, the built DLL is in
 this repository.
 
+Enjoying the mod? You can [support its development on PayPal](https://paypal.me/odolinski).
+
 This is an experimental mod written from the disassembly of `Oni.exe`. Expect bugs; see
 [Status and known limits](#status-and-known-limits).
 
@@ -238,6 +240,11 @@ More cases are covered in the [technical reference](docs/REFERENCE.fr.md) (Frenc
 - [INSTALL.md](INSTALL.md): step-by-step installation.
 - [OBJECTIFS.md](OBJECTIFS.md): what works, what is left to confirm (French).
 - [docs/REFERENCE.fr.md](docs/REFERENCE.fr.md): full technical reference (French).
+
+## Support
+
+OniMP is free. If you enjoy it and want to help it go on, you can make a donation:
+**[paypal.me/odolinski](https://paypal.me/odolinski)**. Thank you!
 
 ## Credits
 
