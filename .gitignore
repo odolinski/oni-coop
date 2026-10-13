@@ -1,3 +1,5 @@
-# sorties de compilation (DLL, outils de test, objets) et index de clangd
-build/
+# sorties de compilation et index de clangd ; seule la DLL du mod est suivie, pour qu'on puisse
+# installer sans compiler (scripts\install.bat la prend dans build\)
+build/*
+!build/realbink.dll
 .cache/

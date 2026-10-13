@@ -1,7 +1,7 @@
 # OniMP — objectifs
 
 État au 13 octobre 2026, version 0.39. Le fonctionnement du mod est décrit dans
-[README.md](README.md).
+[docs/REFERENCE.fr.md](docs/REFERENCE.fr.md) (« le README » dans la suite).
 
 Trois niveaux de preuve sont distingués, parce qu'ils ne valent pas la même chose :
 
