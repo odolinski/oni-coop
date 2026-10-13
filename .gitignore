@@ -1,0 +1,3 @@
+# sorties de compilation (DLL, outils de test, objets) et index de clangd
+build/
+.cache/
