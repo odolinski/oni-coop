@@ -241,10 +241,6 @@ More cases are covered in the [technical reference](docs/REFERENCE.fr.md) (Frenc
 - [OBJECTIFS.md](OBJECTIFS.md): what works, what is left to confirm (French).
 - [docs/REFERENCE.fr.md](docs/REFERENCE.fr.md): full technical reference (French).
 
-## Support
-
-OniMP is free. If you enjoy it and want to help it go on, you can make a donation:
-**[paypal.me/odolinski](https://paypal.me/odolinski)**. Thank you!
 
 ## Credits
 
